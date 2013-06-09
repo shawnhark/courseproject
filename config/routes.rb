@@ -1,5 +1,6 @@
 RailstutorsProject::Application.routes.draw do
  #extra line inserted for test
+ #second extra line
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
